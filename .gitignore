@@ -1,0 +1,12 @@
+*.dat
+.DS_Store
+*.m
+*-converted-to.pdf
+*.png
+*.yml
+main
+info.plist
+.vscode/*
+*.gz
+*.toc
+tex/*
